@@ -19,4 +19,6 @@ Below are links to the project for the DATABASE part of the book
 
 6. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-06-bootstrap
 
+7. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-07-custom-form-rendering
+
 
