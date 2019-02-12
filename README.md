@@ -13,6 +13,8 @@ Below are links to the project for the DATABASE part of the book
 
 3. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-03-postback
 
+4. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-04-generated-form
+
 
 
 
