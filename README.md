@@ -15,6 +15,8 @@ Below are links to the project for the DATABASE part of the book
 
 4. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-04-generated-form
 
+5. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-05-form-classes
 
+6. https://github.com/dr-matt-smith/php-symfony4-book-codes-forms-06-bootstrap
 
 
