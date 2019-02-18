@@ -1,7 +1,7 @@
 # php-symfony4-book-codes-forms
 
 
-Below are links to the project for the DATABASE part of the book
+Below are links to the project for the FORMS part of the book
 
 - download project
 - run: `composer install`
